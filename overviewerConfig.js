@@ -16,6 +16,8 @@ var overviewerConfig = {
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
+            "render_in_progress": true, 
+            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 8, 
             "base": "", 
@@ -38,6 +40,8 @@ var overviewerConfig = {
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
+            "render_in_progress": true, 
+            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 8, 
             "base": "", 
@@ -60,6 +64,8 @@ var overviewerConfig = {
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
+            "render_in_progress": true, 
+            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 8, 
             "base": "", 
@@ -78,6 +84,8 @@ var overviewerConfig = {
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
+            "render_in_progress": true, 
+            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 6, 
             "base": "", 
@@ -123,6 +131,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1418632850"
+        "cacheTag": "1418866292"
     }
 };
