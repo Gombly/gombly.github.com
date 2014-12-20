@@ -11,13 +11,11 @@ var overviewerConfig = {
                 321
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1418620191, 
+            "last_rendertime": 1419069989, 
             "name": "Far Far Away Daytime", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
-            "render_in_progress": true, 
-            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 8, 
             "base": "", 
@@ -35,13 +33,11 @@ var overviewerConfig = {
                 321
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1418620191, 
+            "last_rendertime": 1419069989, 
             "name": "Far Far Away Nighttime", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
-            "render_in_progress": true, 
-            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 8, 
             "base": "", 
@@ -59,13 +55,11 @@ var overviewerConfig = {
                 321
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1418620191, 
+            "last_rendertime": 1419069989, 
             "name": "Far Far Away Caves", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
-            "render_in_progress": true, 
-            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 8, 
             "base": "", 
@@ -79,13 +73,11 @@ var overviewerConfig = {
         {
             "spawn": "false", 
             "isOverlay": false, 
-            "last_rendertime": 1418547687, 
+            "last_rendertime": 1419068032, 
             "name": "Far Far Away Nether", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
-            "render_in_progress": true, 
-            "forcerendertime": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 6, 
             "base": "", 
@@ -131,6 +123,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1418866292"
+        "cacheTag": "1419098035"
     }
 };
