@@ -11,7 +11,7 @@ var overviewerConfig = {
                 321
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1419386871, 
+            "last_rendertime": 1419624948, 
             "name": "Far Far Away Daytime", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -23,7 +23,7 @@ var overviewerConfig = {
             "defaultZoom": 1, 
             "world": "Far Far Away - overworld", 
             "maxZoom": 8, 
-            "path": "Day", 
+            "path": "Day NW", 
             "showlocationmarker": true
         }, 
         {
@@ -33,7 +33,7 @@ var overviewerConfig = {
                 321
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1419386871, 
+            "last_rendertime": 1419624948, 
             "name": "Far Far Away Daytime", 
             "poititle": "Markers", 
             "north_direction": 2, 
@@ -45,7 +45,7 @@ var overviewerConfig = {
             "defaultZoom": 1, 
             "world": "Far Far Away - overworld", 
             "maxZoom": 8, 
-            "path": "DaySouth", 
+            "path": "Day SE", 
             "showlocationmarker": true
         }, 
         {
@@ -55,7 +55,7 @@ var overviewerConfig = {
                 321
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1419386871, 
+            "last_rendertime": 1419624948, 
             "name": "Far Far Away Nighttime", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -77,29 +77,7 @@ var overviewerConfig = {
                 321
             ], 
             "isOverlay": false, 
-            "last_rendertime": 1419386871, 
-            "name": "Far Far Away Nighttime", 
-            "poititle": "Markers", 
-            "north_direction": 2, 
-            "minZoom": 0, 
-            "bgcolor": "#1a1a1a", 
-            "zoomLevels": 8, 
-            "base": "", 
-            "imgextension": "png", 
-            "defaultZoom": 1, 
-            "world": "Far Far Away - overworld", 
-            "maxZoom": 8, 
-            "path": "NightSouth", 
-            "showlocationmarker": true
-        }, 
-        {
-            "spawn": [
-                449, 
-                96, 
-                321
-            ], 
-            "isOverlay": false, 
-            "last_rendertime": 1419386871, 
+            "last_rendertime": 1419624948, 
             "name": "Far Far Away Caves", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -115,34 +93,12 @@ var overviewerConfig = {
             "showlocationmarker": true
         }, 
         {
-            "spawn": [
-                449, 
-                96, 
-                321
-            ], 
-            "isOverlay": false, 
-            "last_rendertime": 1419386871, 
-            "name": "Far Far Away Caves", 
-            "poititle": "Markers", 
-            "north_direction": 2, 
-            "minZoom": 0, 
-            "bgcolor": "#1a1a1a", 
-            "zoomLevels": 8, 
-            "base": "", 
-            "imgextension": "png", 
-            "defaultZoom": 1, 
-            "world": "Far Far Away - overworld", 
-            "maxZoom": 8, 
-            "path": "CavesSouth", 
-            "showlocationmarker": true
-        }, 
-        {
             "spawn": "false", 
             "isOverlay": false, 
-            "last_rendertime": 1419305379, 
+            "last_rendertime": 1419395750, 
             "name": "Far Far Away Nether", 
             "poititle": "Markers", 
-            "north_direction": 2, 
+            "north_direction": 0, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 6, 
@@ -189,6 +145,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1419405526"
+        "cacheTag": "1419631720"
     }
 };
