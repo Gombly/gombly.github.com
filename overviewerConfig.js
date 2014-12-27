@@ -78,6 +78,28 @@ var overviewerConfig = {
             ], 
             "isOverlay": false, 
             "last_rendertime": 1419624948, 
+            "name": "Nighttime SE", 
+            "poititle": "Markers", 
+            "north_direction": 2, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 8, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Far Far Away - overworld", 
+            "maxZoom": 8, 
+            "path": "Night SE", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": [
+                449, 
+                96, 
+                321
+            ], 
+            "isOverlay": false, 
+            "last_rendertime": 1419624948, 
             "name": "Caves NW", 
             "poititle": "Markers", 
             "north_direction": 0, 
@@ -90,6 +112,46 @@ var overviewerConfig = {
             "world": "Far Far Away - overworld", 
             "maxZoom": 8, 
             "path": "Caves", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": [
+                449, 
+                96, 
+                321
+            ], 
+            "isOverlay": false, 
+            "last_rendertime": 1419624948, 
+            "name": "Caves SE", 
+            "poititle": "Markers", 
+            "north_direction": 2, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 8, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Far Far Away - overworld", 
+            "maxZoom": 8, 
+            "path": "Caves SE", 
+            "showlocationmarker": true
+        }, 
+        {
+            "spawn": "false", 
+            "isOverlay": false, 
+            "last_rendertime": 1419395750, 
+            "name": "Nether NW", 
+            "poititle": "Markers", 
+            "north_direction": 0, 
+            "minZoom": 0, 
+            "bgcolor": "#1a1a1a", 
+            "zoomLevels": 6, 
+            "base": "", 
+            "imgextension": "png", 
+            "defaultZoom": 1, 
+            "world": "Far Far Away - nether", 
+            "maxZoom": 6, 
+            "path": "Nether", 
             "showlocationmarker": true
         }, 
         {
@@ -107,7 +169,7 @@ var overviewerConfig = {
             "defaultZoom": 1, 
             "world": "Far Far Away - nether", 
             "maxZoom": 6, 
-            "path": "Nether", 
+            "path": "Nether SE", 
             "showlocationmarker": true
         }
     ], 
@@ -145,6 +207,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1419639508"
+        "cacheTag": "1419643774"
     }
 };
