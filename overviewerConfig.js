@@ -12,7 +12,7 @@ var overviewerConfig = {
             ], 
             "isOverlay": false, 
             "last_rendertime": 1419624948, 
-            "name": "Far Far Away Daytime", 
+            "name": "Daytime NW", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
@@ -34,7 +34,7 @@ var overviewerConfig = {
             ], 
             "isOverlay": false, 
             "last_rendertime": 1419624948, 
-            "name": "Far Far Away Daytime", 
+            "name": "Daytime SE", 
             "poititle": "Markers", 
             "north_direction": 2, 
             "minZoom": 0, 
@@ -56,7 +56,7 @@ var overviewerConfig = {
             ], 
             "isOverlay": false, 
             "last_rendertime": 1419624948, 
-            "name": "Far Far Away Nighttime", 
+            "name": "Nighttime NW", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
@@ -78,7 +78,7 @@ var overviewerConfig = {
             ], 
             "isOverlay": false, 
             "last_rendertime": 1419624948, 
-            "name": "Far Far Away Caves", 
+            "name": "Caves NW", 
             "poititle": "Markers", 
             "north_direction": 0, 
             "minZoom": 0, 
@@ -96,9 +96,9 @@ var overviewerConfig = {
             "spawn": "false", 
             "isOverlay": false, 
             "last_rendertime": 1419395750, 
-            "name": "Far Far Away Nether", 
+            "name": "Nether SE", 
             "poititle": "Markers", 
-            "north_direction": 0, 
+            "north_direction": 2, 
             "minZoom": 0, 
             "bgcolor": "#1a1a1a", 
             "zoomLevels": 6, 
@@ -145,6 +145,6 @@ var overviewerConfig = {
             67, 
             94
         ], 
-        "cacheTag": "1419631720"
+        "cacheTag": "1419639508"
     }
 };
